@@ -2,6 +2,8 @@
 
 This project visualizes data on doping in professional bicycle racing using D3.js. The data is sourced from a JSON file hosted on GitHub and includes information about the 35 fastest times up Alpe d'Huez.
 
+[View it now](https://agmt92.github.io/cycling-doping-d3/)
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
